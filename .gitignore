@@ -1,0 +1,24 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments 
+.venv/
+venv/
+env/
+
+# Secrets and API Keys 
+.env
+.streamlit/secrets.toml
+
+# Databases 
+*.db
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
